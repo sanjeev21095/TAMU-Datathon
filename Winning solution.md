@@ -1,6 +1,6 @@
 # What exactly was the process followed?
 
-TL;DR - Jump to my code
+TL;DR - Jump to [my code](https://github.com/sanjeev21095/TAMU-Datathon/blob/master/Team_friyay_Final_submission.ipynb)
 
 ### Step 1 - Load the data and look inside. 
 You'll be surprised at all the details presented to you. I spent a good amount of time trying to understand what the data had to say.
